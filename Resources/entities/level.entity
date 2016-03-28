@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<entity version="2">
+    <settings>
+        <linkedResourcePools />
+        <layers />
+    </settings>
+    <root polystring:id="" layerID="0" polystring:tags="" type="Entity" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="0.000000" pY="0.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+        <children>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-16.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="16.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="48.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="80.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="112.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="144.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-48.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-80.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-112.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-16.000000" pY="-144.000000" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wall.entity" />
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="ScenePrimitive" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-144.000000" pY="-144.000000" pZ="0.000000" bbX="32.000000" bbY="32.000000" bbZ="0.001000">
+                <ScenePrimitive type="2" p1="32.000000" p2="32.000000" p3="1.000000" p4="0.000000" p5="0.000000" />
+                <SceneMesh alphaTest="false" backfaceCulled="true" sendBoneMatricesToMaterial="false" material="Unlit">
+                    <shader_options>
+                        <shader>
+                            <textures>
+                                <texture name="diffuse">Resources/textures/redStoneWall.png</texture>
+                            </textures>
+                        </shader>
+                    </shader_options>
+                </SceneMesh>
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="ScenePrimitive" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-144.000000" pY="16.000000" pZ="0.000000" bbX="32.000000" bbY="32.000000" bbZ="0.001000">
+                <ScenePrimitive type="2" p1="32.000000" p2="32.000000" p3="1.000000" p4="0.000000" p5="0.000000" />
+                <SceneMesh alphaTest="false" backfaceCulled="true" sendBoneMatricesToMaterial="false" material="Unlit">
+                    <shader_options>
+                        <shader>
+                            <textures>
+                                <texture name="diffuse">Resources/textures/redStoneWall.png</texture>
+                            </textures>
+                        </shader>
+                    </shader_options>
+                </SceneMesh>
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="ScenePrimitive" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="144.000000" pY="16.000000" pZ="0.000000" bbX="32.000000" bbY="32.000000" bbZ="0.001000">
+                <ScenePrimitive type="2" p1="32.000000" p2="32.000000" p3="1.000000" p4="0.000000" p5="0.000000" />
+                <SceneMesh alphaTest="false" backfaceCulled="true" sendBoneMatricesToMaterial="false" material="Unlit">
+                    <shader_options>
+                        <shader>
+                            <textures>
+                                <texture name="diffuse">Resources/textures/redStoneWall.png</texture>
+                            </textures>
+                        </shader>
+                    </shader_options>
+                </SceneMesh>
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="ScenePrimitive" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="112.000000" pY="16.000000" pZ="0.000000" bbX="32.000000" bbY="32.000000" bbZ="0.001000">
+                <ScenePrimitive type="2" p1="32.000000" p2="32.000000" p3="1.000000" p4="0.000000" p5="0.000000" />
+                <SceneMesh alphaTest="false" backfaceCulled="true" sendBoneMatricesToMaterial="false" material="Unlit">
+                    <shader_options>
+                        <shader>
+                            <textures>
+                                <texture name="diffuse">Resources/textures/redStoneWall.png</texture>
+                            </textures>
+                        </shader>
+                    </shader_options>
+                </SceneMesh>
+            </child>
+            <child id="wall" layerID="0" tags="wall" type="ScenePrimitive" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="-112.000000" pY="16.000000" pZ="0.000000" bbX="32.000000" bbY="32.000000" bbZ="0.001000">
+                <ScenePrimitive type="2" p1="32.000000" p2="32.000000" p3="1.000000" p4="0.000000" p5="0.000000" />
+                <SceneMesh alphaTest="false" backfaceCulled="true" sendBoneMatricesToMaterial="false" material="Unlit">
+                    <shader_options>
+                        <shader>
+                            <textures>
+                                <texture name="diffuse">Resources/textures/redStoneWall.png</texture>
+                            </textures>
+                        </shader>
+                    </shader_options>
+                </SceneMesh>
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="98.245816" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="65.006433" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="27.432192" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="-7.246668" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="-43.370480" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="144.473343" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="-76.609864" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="176.256821" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+            <child polystring:id="" layerID="0" polystring:tags="" type="SceneEntityInstance" cR="1.000000" cG="1.000000" cB="1.000000" cA="1.000000" blendMode="0" sX="1.000000" sY="1.000000" sZ="1.000000" rX="0.000000" rY="0.000000" rZ="0.000000" rW="1.000000" pX="210.957587" pY="-109.843771" pZ="0.000000" bbX="0.000000" bbY="0.000000" bbZ="0.001000">
+                <SceneEntityInstance filePath="Resources/entities/wraith.entity" />
+            </child>
+        </children>
+    </root>
+</entity>
